@@ -1,0 +1,23 @@
+.cal {
+    background-image: url("./0db91f0d7d1f2b4c8d6af61c988093a0bb89461e.jpg");
+    height: 100%;
+    position: relative;
+    opacity: 0.85;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* fixed in viewport */
+}
+
+div.title {
+    width: auto;
+    }
+
+.title{
+    width: 600em;
+    padding: 40px;
+    font-size: 50px;
+}
+.cal{
+    background-image: url("./20190118_153824.jpg")
+}
