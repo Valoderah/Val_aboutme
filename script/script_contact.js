@@ -13,3 +13,8 @@ function myrectangle() {
     let arearec = parseInt(hnum) * parseInt(wnum);
     document.getElementById("answerrec").innerHTML = 'Answer: ' + arearec;
 }
+
+QUnit.test( "hello test", function( assert ) {
+    assert.ok( 1 == "1", "Passed!" );
+  });
+
