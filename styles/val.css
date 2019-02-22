@@ -1,0 +1,43 @@
+h1 {
+  color: white
+}
+
+body {
+  padding-top: 5rem;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+
+.video-wrapper {
+  width: 100%;
+  background-color: rgb(193, 213, 219);
+
+}
+
+section {
+  margin: 1rem;
+  padding: 2rem;
+  background-color: rgb(223, 233, 236);
+  border-radius: 2em;
+}
+
+.bgimg {
+  background-image: url("./0db91f0d7d1f2b4c8d6af61c988093a0bb89461e.jpg");
+  height: 100%;
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* fixed in viewport */
+}
+
+.ajax{
+  background-color: darkblue
+}
+
+

@@ -1,0 +1,20 @@
+body{
+    color: rgb(49, 128, 165);
+}
+
+
+.nice {
+    background-image: url("./0db91f0d7d1f2b4c8d6af61c988093a0bb89461e.jpg");
+    height: 100%;
+    position: relative;
+    opacity: 0.85;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* fixed in viewport */
+}
+
+.form{
+    margin: 1rem;
+    padding: 2rem;
+}
