@@ -36,5 +36,8 @@ section {
   background-attachment: fixed; /* fixed in viewport */
 }
 
+.ajax{
+  background-color: darkblue
+}
 
 
